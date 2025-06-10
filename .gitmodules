@@ -1,0 +1,4 @@
+[submodule "norvid"]
+	path = norvid
+	url = git@git.vauxoo.com:vauxoo/norvid.git
+	branch = 18.0
